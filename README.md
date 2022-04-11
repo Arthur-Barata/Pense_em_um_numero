@@ -1,0 +1,2 @@
+# Pense_em_um_numero
+Esse é um site básico que faz um joguinho matemático com o usuário, o usuário tem que pensar em um numero e fazer algumas operações matemáticas e no final o site dá a resposta, "adivinhando" o numero que o usuário pensou. Neste mini projeto, por incrível que pareça eu tive que usar bastante da lógica de programação, e isso foi muito divertido e acrescentou aos meus conhecimentos.
